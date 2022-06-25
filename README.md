@@ -1,11 +1,7 @@
-<!--
-**0xZhangKe/0xZhangKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Hi there, I'm ZhangKe 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xZhangKe&count_private=true&show_icons=true&theme=radical" />
-</a>
-</p>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZhangKe&hide=HTML" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xzhangke&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true" alt="0xZhangKe's github stats"/>
+
+I am an android developer base in Shanghai, working on bilibili.
+- Read more about my [Blog](https://0xzhangke.github.io/)
+- Talk with me by [Email](kezhang404@gmail.com)
