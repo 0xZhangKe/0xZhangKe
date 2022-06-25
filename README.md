@@ -4,4 +4,4 @@
 
 I am an android developer base in Shanghai, working on bilibili.
 - Read more about my [Blog](https://0xzhangke.github.io/)
-- Talk with me by [Email](kezhang404@gmail.com)
+- Talk with me by [Email](mailto:kezhang404@gmail.com)
