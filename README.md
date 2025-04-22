@@ -6,3 +6,4 @@ I am a Software Engineer, mainly for Android and Kotlin Multiplatform.
 - Talk with me by [Email](mailto:kezhang404@gmail.com)
 - Mastodon: [https://m.cmx.im/@AtomZ](https://m.cmx.im/@AtomZ)
 - X: [https://x.com/zhangke19](https://x.com/zhangke19)
+- Currently focusing on [Fread](https://play.google.com/store/apps/details?id=com.zhangke.fread)
