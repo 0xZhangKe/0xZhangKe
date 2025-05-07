@@ -8,5 +8,7 @@ I am a Software Engineer, mainly for Android and Kotlin Multiplatform.
 - X: [https://x.com/zhangke19](https://x.com/zhangke19)
 - Currently focusing on [Fread](https://play.google.com/store/apps/details?id=com.zhangke.fread)
 
-
-[![Zhangke's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xzhangke)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xzhangke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xzhangke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
